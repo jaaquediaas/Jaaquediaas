@@ -1,16 +1,19 @@
-## Hi there 👋
+Meu nome é Jaqueline e estou em transição de carreira de **Recursos Humanos para Tech**.  
 
-<!--
-**jaaquediaas/Jaaquediaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou **estudando Computação em Nuvem na AWS** e utilizando este espaço para registrar meus aprendizados, projetos e experimentações no mundo da tecnologia.
 
-Here are some ideas to get you started:
+ **Sobre mim**
+- 🌱 Aprendendo sobre **AWS Cloud**, **DevOps** e outras tecnologias de nuvem.
+- 📚 Compartilhando meus estudos e projetos no GitHub.
+- 💡 Apaixonado por tecnologia e inovação, sempre buscando conectar conhecimento técnico com minhas experiências anteriores em RH.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Objetivo**            
+Meu objetivo aqui é **crescer como profissional de tecnologia**, construir projetos que consolidem meu aprendizado e compartilhar conhecimento com a comunidade.  
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada! 🚀
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/fa/f0/7a/faf07a7acbb1763daccee59733e4443e.gif" width="150">
+</div>
+
+
